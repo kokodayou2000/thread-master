@@ -1,11 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3f2d66c-b6f2-4e9d-83b0-6631d9a4cd0d" name="变更" comment="" />
+    <list default="true" id="c3f2d66c-b6f2-4e9d-83b0-6631d9a4cd0d" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/_01_intruductor_thread/_2_stopThread/_03_reInterrupt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_01_intruductor_thread/_2_stopThread/_04_getInterruptFlag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/_01_createByRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/_01_createByRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/_02_createByThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/_02_createByThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/CreateByCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/CreateByCallable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/CreateByPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/CreateByPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/CreateByTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/CreateByTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/CreateByTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/CreateByTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/InnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/InnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/LambdaCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/LambdaCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_2_stopThread/_01_RightWayStopThreadWithoutSleep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_intruductor_thread/_2_stopThread/_01_RightWayStopThreadWithoutSleep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_2_stopThread/_02_RightWayStopThreadWithSleep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_intruductor_thread/_2_stopThread/_02_RightWayStopThreadWithSleep.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NrQNk4zo3MdiXHSY2SThsmFbkC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,14 +43,97 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="应用程序._04_getInterruptFlag">
+    <configuration name="CreateByTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_intruductor_thread._1_createthreads.some.CreateByTask" />
+      <module name="juc-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_intruductor_thread._1_createthreads.some.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_01_RightWayStopThreadWithoutSleep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_intruductor_thread._2_stopThread._01_RightWayStopThreadWithoutSleep" />
+      <module name="juc-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_intruductor_thread._2_stopThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_02_RightWayStopThreadWithSleep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_intruductor_thread._2_stopThread._02_RightWayStopThreadWithSleep" />
+      <module name="juc-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_intruductor_thread._2_stopThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_03_reInterrupt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_intruductor_thread._2_stopThread._03_reInterrupt" />
+      <module name="juc-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_intruductor_thread._2_stopThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_04_getInterruptFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01_intruductor_thread._2_stopThread._04_getInterruptFlag" />
+      <module name="juc-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_01_intruductor_thread._2_stopThread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序._04_getInterruptFlag" />
+        <item itemvalue="应用程序._03_reInterrupt" />
+        <item itemvalue="应用程序._02_RightWayStopThreadWithSleep" />
+        <item itemvalue="应用程序._01_RightWayStopThreadWithoutSleep" />
+        <item itemvalue="应用程序.CreateByTask" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -29,8 +142,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680419684174</updated>
-      <workItem from="1680419685759" duration="1000" />
+      <workItem from="1680419685759" duration="2847000" />
+      <workItem from="1680659333550" duration="5008000" />
+      <workItem from="1680680554855" duration="744000" />
+      <workItem from="1680682730640" duration="4190000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

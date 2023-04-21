@@ -1,11 +1,14 @@
 package _02_jmm._01_reorder;
 
-import java.util.TimeZone;
+
+import sun.misc.Contended;
 
 /**
  * 可见性
  */
+
 public class FieldVisibility {
+
     int a = 1;
     int b = 2;
 

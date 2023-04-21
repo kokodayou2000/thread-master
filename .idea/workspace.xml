@@ -4,13 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3f2d66c-b6f2-4e9d-83b0-6631d9a4cd0d" name="变更" comment="edit readme">
-      <change afterPath="$PROJECT_DIR$/.idea/GrepConsole.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_jmm/_01_reorder/FieldVisibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_jmm/_01_reorder/Join_demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_jmm/_01_reorder/Reorder.java" afterDir="false" />
+    <list default="true" id="c3f2d66c-b6f2-4e9d-83b0-6631d9a4cd0d" name="变更" comment="指令重排序和可见性例子">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jcstress_jcstress_core_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jcstress_jcstress_samples_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JCS_Test/Longs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_02_jmm/_01_reorder/Volatile_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/deadLock/DeadLock_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/deadLock/DeadLock_ThreadMXBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/deadLock/DiningPhilosophers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/deadLock/LiveLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/deadLock/Pay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/deadLock/TryLockDeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/file/EchoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/file/t" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question1/_01_singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question1/_02_singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question1/_03_singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question1/_04_singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question1/_05_singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question1/_06_singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/question1/_07_singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tools/_01_ReentLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tools/_02_ReadWriteLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tools/_03_CountDownLatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tools/_04_Phaser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tools/_05_CyclicBarrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/juc-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/juc-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/_01_createByRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_intruductor_thread/_1_createthreads/_01_createByRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/_02_createByThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_intruductor_thread/_1_createthreads/_02_createByThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/CreateByCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_intruductor_thread/_1_createthreads/some/CreateByCallable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/CreateByPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_intruductor_thread/_1_createthreads/some/CreateByPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/CreateByTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_intruductor_thread/_1_createthreads/some/CreateByTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/CreateByTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_intruductor_thread/_1_createthreads/some/CreateByTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/InnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_intruductor_thread/_1_createthreads/some/InnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_1_createthreads/some/LambdaCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_intruductor_thread/_1_createthreads/some/LambdaCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_2_stopThread/_01_RightWayStopThreadWithoutSleep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_intruductor_thread/_2_stopThread/_01_RightWayStopThreadWithoutSleep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_2_stopThread/_02_RightWayStopThreadWithSleep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_intruductor_thread/_2_stopThread/_02_RightWayStopThreadWithSleep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_2_stopThread/_03_reInterrupt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_intruductor_thread/_2_stopThread/_03_reInterrupt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_intruductor_thread/_2_stopThread/_04_getInterruptFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_01_intruductor_thread/_2_stopThread/_04_getInterruptFlag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_jmm/_01_reorder/FieldVisibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_02_jmm/_01_reorder/FieldVisibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_jmm/_01_reorder/Join_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_02_jmm/_01_reorder/Join_demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_jmm/_01_reorder/Reorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_02_jmm/_01_reorder/Reorder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +84,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -49,35 +96,34 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Join_demo">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="question1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序._04_Phaser">
     <configuration name="FieldVisibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_02_jmm._01_reorder.FieldVisibility" />
       <module name="juc-master" />
+      <option name="VM_PARAMETERS" value="-XX:-RestrictContended" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="_02_jmm._01_reorder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Join_demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_jmm._01_reorder.Join_demo" />
-      <module name="juc-master" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_02_jmm._01_reorder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_reInterrupt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_intruductor_thread._2_stopThread._03_reInterrupt" />
+    <configuration name="_04_Phaser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tools._04_Phaser" />
       <module name="juc-master" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_01_intruductor_thread._2_stopThread.*" />
+          <option name="PATTERN" value="tools.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,26 +155,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_getInterruptFlag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_01_intruductor_thread._2_stopThread._04_getInterruptFlag" />
+    <configuration name="longs" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.openjdk.jcstress.Main" />
       <module name="juc-master" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_01_intruductor_thread._2_stopThread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
+      <option name="PROGRAM_PARAMETERS" value="-t Longs" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="应用程序.longs" />
+      <item itemvalue="应用程序._04_Phaser" />
+      <item itemvalue="应用程序.Reorder" />
+      <item itemvalue="应用程序.FieldVisibility" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Join_demo" />
+        <item itemvalue="应用程序._04_Phaser" />
         <item itemvalue="应用程序.FieldVisibility" />
         <item itemvalue="应用程序.Reorder" />
-        <item itemvalue="应用程序._04_getInterruptFlag" />
-        <item itemvalue="应用程序._03_reInterrupt" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +196,18 @@
       <workItem from="1680682730640" duration="4329000" />
       <workItem from="1681647995882" duration="2630000" />
       <workItem from="1681650643771" duration="3248000" />
-      <workItem from="1681656849123" duration="1055000" />
+      <workItem from="1681656849123" duration="3161000" />
+      <workItem from="1681717284183" duration="838000" />
+      <workItem from="1681796604754" duration="9027000" />
+      <workItem from="1681862750316" duration="1425000" />
+      <workItem from="1681867088699" duration="1262000" />
+      <workItem from="1681883748992" duration="774000" />
+      <workItem from="1681918520749" duration="73000" />
+      <workItem from="1681952185276" duration="2313000" />
+      <workItem from="1682002069862" duration="2213000" />
+      <workItem from="1682008484826" duration="2230000" />
+      <workItem from="1682039670598" duration="8470000" />
+      <workItem from="1682052203168" duration="100000" />
     </task>
     <task id="LOCAL-00001" summary="4-5">
       <created>1680701182805</created>
@@ -162,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680701289084</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="指令重排序和可见性例子">
+      <created>1681659099979</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681659099979</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +239,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4-5" />
     <MESSAGE value="edit readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit readme" />
+    <MESSAGE value="指令重排序和可见性例子" />
+    <option name="LAST_COMMIT_MESSAGE" value="指令重排序和可见性例子" />
   </component>
 </project>
